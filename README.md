@@ -38,8 +38,8 @@ npx expo start
 ## 📸 Screenshots
 
 ![Login](assets/screenshots/loginscreen.png)
-![Register](assets/images/registerscreen.png)
-![Chat](assets/images/chatscreen.png)
+![Register](assets/screenshots/registerscreen.png)
+![Chat](assets/screenshots/chatscreen.png)
 
 ---
 
